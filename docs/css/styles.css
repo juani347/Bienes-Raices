@@ -77,10 +77,18 @@ h4 {
 .boton-amarillo {
     background-color: #E08709;
 }
+
+.boton-amarillo:hover {
+    background-color: #b46900;
+}
+
 .boton-verde {
     background-color: #71B100;
 }
 
+.boton-verde:hover {
+    background-color: #497400;
+}
 
 /* Header */
 .site-header {
